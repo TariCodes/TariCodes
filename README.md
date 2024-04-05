@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Godbless Ikadoi.
-I'm an aspiring Frontend Web Developer, currently shaping my skills in Tailwind CSS and Next.js
+I'm an aspiring Frontend Web Developer👩‍💻👩‍💻 who loves designing, lover of lawn-tennis 🎾, soccer(GGMU)😊😊 ⚽, music lover🎧🎧, and loves going to beach⛱️⛱️ and exploring new things
 
 <!--
 **TariCodes/TariCodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
