@@ -1,6 +1,7 @@
 ## Hi there 👋 <br>
 # I'm Godbless Ikadoi.
-Im in love with Web Programming/ Red Hat Hacking 👩‍💻👩‍💻 
+
+I'm in love with Programming 👩‍💻👩‍💻 
 
 ## Interest 
 - AI/ML
@@ -8,8 +9,6 @@ Im in love with Web Programming/ Red Hat Hacking 👩‍💻👩‍💻
 - Deep Learning
 
 ## Hobbies 
-- Programming
-- problem solving
 - Reading 
 - Gaming
 
